@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, seja bem vindo!! ✨✨
 
-<!--
-**sanchezz09/sanchezz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     Meu nome é João Vitor
+  
+  - estou estudando pelo alura
+- estou me desenvolvendo em JavaScript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        $$$ Entre em contato comigo 🇧🇷
+    
+@jv.ss07
+
+sanches.joao09@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/YlHhsRiH_iQAAAAd/minas-t%C3%AAnis-clube-minas-tenis-clube.gif)
